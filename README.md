@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hey, I'm Monson Simon
 
-<!--
-**monsonsimon/monsonsimon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**🚀 Automation & Open Source Enthusiast  
+🛠️ Windows, Linux & Python | Bots & Systems | Tools**
 
-Here are some ideas to get you started:
+I'm passionate about learning new technologies, building automation tools, and sharing them with the world.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 Kozhikode, Kerala, India  
+🌐 monsonsimon.ml  
+🐦 @MonsonSimon
+
+---
+
+## 💡 What I Do
+- 🔹 Windows & Linux troubleshooting
+- 🔹 Python bots & automation scripts
+- 🔹 Telegram bots & API work
+- 🔹 Fun and useful open-source tools
+- 🔹 CMD / Bash scripting
+- 🔹 Exploring networking and systems
+
+---
+
+## 📌 Featured Projects
+(Check pinned repositories below ↓)
+
+✨ Looking to collaborate on beginner-to-intermediate open source tech tools.
+
+Let’s connect! ☺️
