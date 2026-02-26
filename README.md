@@ -28,3 +28,4 @@ Check my pinned repositories below 👇
 ---
 
 > “Technology is not just something I use — it's something I explore.”
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=monsonsimon&show_icons=true&theme=default)
