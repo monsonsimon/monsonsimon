@@ -1,29 +1,30 @@
-# 👋 Hey, I'm Monson Simon
+# 👋 Hi, I'm Monson Simon
 
-**🚀 Automation & Open Source Enthusiast  
-🛠️ Windows, Linux & Python | Bots & Systems | Tools**
+🚀 Automation Enthusiast | Windows & Linux Troubleshooter | Bot Developer  
 
-I'm passionate about learning new technologies, building automation tools, and sharing them with the world.
-
-📍 Kozhikode, Kerala, India  
-🌐 monsonsimon.ml  
-🐦 @MonsonSimon
+I enjoy experimenting with systems, automation scripts, and open-source tools.
 
 ---
 
-## 💡 What I Do
-- 🔹 Windows & Linux troubleshooting
-- 🔹 Python bots & automation scripts
-- 🔹 Telegram bots & API work
-- 🔹 Fun and useful open-source tools
-- 🔹 CMD / Bash scripting
-- 🔹 Exploring networking and systems
+## 🔧 Skills & Interests
+- 🖥 Windows troubleshooting & optimization
+- 🐧 Linux operations & shell scripting
+- 🤖 Telegram bot development (Python)
+- 🌐 Networking basics & remote access
+- ⚡ CMD & Bash tricks
+- 🧪 Virtual machine labs
 
 ---
 
-## 📌 Featured Projects
-(Check pinned repositories below ↓)
+## 📂 Featured Work
+Check my pinned repositories below 👇
 
-✨ Looking to collaborate on beginner-to-intermediate open source tech tools.
+---
 
-Let’s connect! ☺️
+## 🌍 Connect With Me
+- 🌐 Blog: https://monsonsimon.blogspot.com/
+- 📍 Kerala, India
+
+---
+
+> “Technology is not just something I use — it's something I explore.”
